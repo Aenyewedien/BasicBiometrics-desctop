@@ -1,0 +1,16 @@
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\bin\x64\Debug\WpfApp4.exe.config
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\bin\x64\Debug\WpfApp4.exe
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\bin\x64\Debug\WpfApp4.pdb
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\bin\x64\Debug\MySql.Data.dll
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\bin\x64\Debug\MySql.Data.xml
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\App.g.cs
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\MainWindow.baml
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4.g.resources
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4.csproj.GenerateResource.Cache
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4.exe
+C:\Users\Aenyeweddien\Documents\Visual Studio 2017\Projects\WpfApp4\WpfApp4\obj\x64\Debug\WpfApp4.pdb

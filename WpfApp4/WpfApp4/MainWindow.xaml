@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="350">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Sign in">
+                <ItemsControl>
+                    <system:String>Login:</system:String>
+                    <TextBox Name="siglog" AcceptsReturn="True" TextWrapping="Wrap" Width="326"></TextBox>
+                    <system:String>Rewrite text:</system:String>
+                    <system:String>the quick brown fox jumps over the lazy dog</system:String>
+                    <TextBox Height="70" Width="326" Name="sigtxt" KeyDown="sigtxt_KeyDown" KeyUp="sigtxt_KeyUp" />
+                    <Button Name="Sign" Content="Sign in" Grid.Column="1" Grid.Row="6" Height="23" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Width="75" Click="Sign_Click"/>
+                </ItemsControl>
+            </TabItem>
+            <TabItem Header="Log in">
+                <ItemsControl>
+                    <system:String>Login:</system:String>
+                    <TextBox Name="loglog" AcceptsReturn="True" TextWrapping="Wrap" Width="326"></TextBox>
+                    <system:String>Rewrite text:</system:String>
+                    <system:String>the quick brown fox jumps over the lazy dog</system:String>
+                    <TextBox Height="70" Width="326" Name="Logtxt" KeyDown="Logtxt_KeyDown" KeyUp="Logtxt_KeyUp" />
+                    <Button Name="Log" Content="Log in" Grid.Column="1" Grid.Row="6" Height="23" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Width="75" Click="Log_Click" />
+                </ItemsControl>
+            </TabItem>
+            <TabItem Header="Who are you">
+                <ItemsControl>
+                    <system:String>Rewrite text:</system:String>
+                    <system:String>the quick brown fox jumps over the lazy dog</system:String>
+                    <TextBox Height="70" Width="326" Name="Whotxt" KeyDown="Whotxt_KeyDown" KeyUp="Whotxt_KeyUp" />
+                    <Button Name="Who" Content="Log in" Grid.Column="1" Grid.Row="6" Height="23" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Width="75" Click="Who_Click" />
+                </ItemsControl>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
